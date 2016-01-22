@@ -1,0 +1,35 @@
+{
+  "name": "laravel-codeproject-frontend",
+  "description": "Frontend de Gerenciador de Projetos",
+  "main": "",
+  "authors": [
+    "Nelio Alves <nelio.iftm@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "https://github.com/acenelio/laravel_angularjs05",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.9",
+    "angular-route": "1.4.9",
+    "angular-resource": "1.4.9",
+    "angular-animate": "1.4.9",
+    "angular-messages": "1.4.9",
+    "angular-bootstrap": "~1.1.0",
+    "angular-strap": "~2.3.7",
+    "bootstrap": "~3.3.6",
+    "angular-oauth2": "~3.0.1"
+  },
+  "resolutions": {
+    "angular": "1.4.9"
+  }
+}
